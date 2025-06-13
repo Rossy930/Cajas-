@@ -1,7 +1,9 @@
-/*
-Práctica5.CSS
-Aquí podrás visualizar las reglas de CSS de nuestra práctica5.html llamada "Cajas flotantes" yeah!
-*/
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <title>PRÁCTICA</title>
+    <meta charset="utf-8">
+    <style> 
 
 body{
     color:white;
@@ -37,16 +39,12 @@ div {
 #cajaRoja {
     background-color: red;
     float: right;
-<!DOCTYPE html>
-<html lang="es-ES">
-<head>
-    <title>PRÁCTICA</title>
-    <meta charset="utf-8">
-    <link href="C:\Users\Meliton\Downloads\rocio ahuatan\css\2.css" rel="stylesheet">
+}
+</style>
 </head>
 <body>
     <h1>Las famosas cajas flotantes</h1>
-	
+   
 	
     <div id="cajaNegra"> Caja NEGRA <img src= "C:\Users\Meliton\Downloads\rocio ahuatan\img\arbol.jpg"width="150" > </div>	  
     <div id="cajaAzul"> Caja AZUL <img src="C:\Users\Meliton\Downloads\rocio ahuatan\img\atardecer.jpg" width="200"> </div>
