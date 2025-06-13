@@ -1,10 +1,8 @@
-# Cajas-
-<!DOCTYPE html>
-<html lang="es-ES">
-<head>
-    <title>PRÁCTICA</title>
-    <meta charset="utf-8">
-  
+/*
+Práctica5.CSS
+Aquí podrás visualizar las reglas de CSS de nuestra práctica5.html llamada "Cajas flotantes" yeah!
+*/
+
 body{
     color:white;
 }
